@@ -4,7 +4,7 @@ This project is a resume tool for developers, and you can easily create a sophis
 
 <h1> Why is this project useful? </h1>
 
-Resume is important because it is my first impression of the company. Traditional resumes on the Internet are very cliche. It's Boring and the same image, and there's a lot of subject you don't need you. But this resume is different. In addition, it is a good resume that can only appeal to the developer's ability because it only has the necessary items. In addition, it is easy to modify subject so you can customize them.<br?<br>
+Resume is important because it is my first impression of the company. Traditional resumes on the Internet are very cliche. It's Boring and the same image, and there's a lot of subject you don't need you. But this resume is different. In addition, it is a good resume that can only appeal to the developer's ability because it only has the necessary items. In addition, it is easy to modify subject so you can customize them.<br><br>
 Also, I put up a guide on how to set it up, so you can learning about raspberry pi, including how to set up a virtual host and how to use Filezilla, even if it's not necessarily because of your resume
 <h1>How to get started? </h1>
 It can be difficult to create an environment where you can start. But with a little effort, you can do it easily.
