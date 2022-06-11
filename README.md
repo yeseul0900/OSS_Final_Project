@@ -25,7 +25,7 @@ It can be difficult to create an environment where you can start. But with a lit
 2) Create a new user. <br>
     - $ useradd -m resume<br>
     - $ passwd resume<br>
-    - 패스워드 입력<br>
+    - Enter Password<br>
 3) Log in as a new user by entering the following command.<br>
     - $ su - resume<br>
 4) Gets the following repository and changes permissions.<br>
